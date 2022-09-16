@@ -1,6 +1,19 @@
-# NLW
+# NLW eSports
 
-Projetinho simples para brincar com layout.
-![image](https://user-images.githubusercontent.com/37711331/190491106-36ecfdd3-c49e-4624-988f-9c35f17d4764.png)
+> Trilha Explorer
+![preview](./.github/preview.png)
 
-programar também é se divertir.
+Projetinho simples construído no evento Next Level Week da Rocketseat.
+
+[Clique aqui para acessar](https://daniloperiottodegodoy.github.io/NLW/)
+
+## Tecnologias
+
+- HTML
+- CSS
+- GIT e GITHUB
+
+## Contato
+daniloperiottodegodoy@gmail.com
+
+    "programar também é se divertir."

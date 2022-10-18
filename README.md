@@ -6,7 +6,7 @@
 
 Projetinho simples construído no evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar](https://daniloperiottodegodoy.github.io/NLW/)
+[Clique aqui para acessar](https://daniloperiottodegodoy.github.io/NLW-eSports-Explorer/)
 
 ## Tecnologias
 
